@@ -1,2 +1,2 @@
 # JBig2Decoder.Python3
-Перевод [кода](https://github.com/devteamexpress/JBig2Decoder.NET) с C# на Python
+Translating [code](https://github.com/devteamexpress/JBig2Decoder.NET) from C# to Python.
